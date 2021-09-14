@@ -2,6 +2,7 @@
 This is my Clover config for a rig running 4th gen Intel graphics and Catalina.
 
 ## PC Specs
+- OS: Mac OS Catalina 10.15.7
 - CPU: Intel Xeon E3-1246v3 (with Intel HD P4600 graphics)
 - Motherboard: ASUS H97I-Plus
 - RAM: 2x8GB DDR3 1777MHz HyperX
